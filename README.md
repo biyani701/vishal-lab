@@ -17,6 +17,7 @@ differently.
 | `archive/portfolio-web-client/` | The 2026 Vite + React Router client from `vishal-portfolio/apps/web`: `AuthProvider`, `/signin`, `/account`, callback routes, `AccountMenu`, runtime config schema. | No. Reference only; it imports the portfolio's `@/ui` and `@/config` modules. |
 | `archive/portfolio-legacy-client/` | The original CRA client from `vishal-portfolio/apps/portfolio`: sign-in pages (MUI, Toolpad, custom), callbacks, `AuthContext`, debug tools, integration notes. | No. Reference only. |
 | `specs/auth-integration/spec.md` | The OpenSpec requirements the web client was built against. | n/a |
+| `holding/` | Writing, knowledge and glossary content removed from the portfolio, held until the blog and kb repos exist. See `holding/README.md`. | No |
 
 ## Where it came from
 
