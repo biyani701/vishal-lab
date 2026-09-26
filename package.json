@@ -1,0 +1,8 @@
+{
+  "name": "vishal-lab",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev:auth": "pnpm --filter auth-server dev"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env*.local
+.vercel/
+*.log
+apps/auth-server/docs/build/
+apps/auth-server/docs/.docusaurus/
