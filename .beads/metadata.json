@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "vishal_lab",
+  "project_id": "9182410d-c115-43cb-a099-62c2d30dedb4"
+}
